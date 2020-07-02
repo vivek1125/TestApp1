@@ -1,0 +1,13 @@
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\bin\Release\netcoreapp3.1\TestApp1.exe
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\bin\Release\netcoreapp3.1\TestApp1.deps.json
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\bin\Release\netcoreapp3.1\TestApp1.runtimeconfig.json
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\bin\Release\netcoreapp3.1\TestApp1.runtimeconfig.dev.json
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\bin\Release\netcoreapp3.1\TestApp1.dll
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\bin\Release\netcoreapp3.1\TestApp1.pdb
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\obj\Release\netcoreapp3.1\TestApp1.csprojAssemblyReference.cache
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\obj\Release\netcoreapp3.1\TestApp1.AssemblyInfoInputs.cache
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\obj\Release\netcoreapp3.1\TestApp1.AssemblyInfo.cs
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\obj\Release\netcoreapp3.1\TestApp1.csproj.CoreCompileInputs.cache
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\obj\Release\netcoreapp3.1\TestApp1.dll
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\obj\Release\netcoreapp3.1\TestApp1.pdb
+C:\Users\vivek.d.raj\Source\Repos\TestApp1\TestApp1\obj\Release\netcoreapp3.1\TestApp1.genruntimeconfig.cache
